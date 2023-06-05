@@ -5,3 +5,7 @@ print("b")
 
 def new_feature():
     pass
+
+def newer_feature():
+    # feature feature feature
+    pass
